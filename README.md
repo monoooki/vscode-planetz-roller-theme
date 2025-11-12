@@ -1,13 +1,13 @@
 # Planetz Roller for VSCode
 
-![hero](media/hero.png)
+![hero](assets/hero.png)
 
 **Planetz Roller** is a light, soft-toned theme with a flat, painted look across the entire interface.
 The name comes from the [_Planetz Big Swig Roller_](https://splatoonwiki.org/wiki/Planetz_Big_Swig_Roller), a roller-type weapon in Splatoon 3.
 
-![](media/planetz-roller-dark.png)
+![](assets/planetz-roller-dark.png)
 
-![](media/planetz-roller-light.png)
+![](assets/planetz-roller-light.png)
 
 ## Key Features
 
